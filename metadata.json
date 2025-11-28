@@ -1,0 +1,5 @@
+{
+  "name": "Performance Lab",
+  "description": "Elite golf tracking application for managing drills, visualizing trends, and exporting performance data.",
+  "requestFramePermissions": []
+}
